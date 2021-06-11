@@ -1,0 +1,18 @@
+{
+  "name": "revisao",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <br>   <img src=\"Img/web-development.png\" alt=\"Front-End Checklist\" width=\"170\">   <br>     <br>         Semana 5   <br> </h1> <h2 align=\"center\">   <p align=\"center\">{Profa} Tai Bomfim <p> </h2>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
